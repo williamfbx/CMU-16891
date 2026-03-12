@@ -1,0 +1,3 @@
+[submodule "smart"]
+	path = smart
+	url = https://github.com/smart-mapf/smart.git
